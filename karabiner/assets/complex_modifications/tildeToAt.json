@@ -1,0 +1,29 @@
+{
+  "title": "Change ``` to @",
+  "rules": [
+    {
+      "description": "Change tilde key to @ symbol",
+      "maniplators": [
+        {
+          "from": {
+            "key_code": "2",
+            "modifiers": {
+              "mandatory": [
+                "left_shift"
+              ],
+              "optional": [
+                "any"
+              ]
+            }
+          },
+          "to": [
+            {
+              "key_code": "`"
+            }
+          ],
+          "type": "basic"
+        }
+      ]
+    }
+  ]
+}

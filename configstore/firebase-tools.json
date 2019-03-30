@@ -1,0 +1,38 @@
+{
+	"analytics-uuid": "aa413f5f-6168-4bd0-b0a9-a1328103d251",
+	"motd": {
+		"minVersion": "3.0.5"
+	},
+	"motd.fetched": 1536008650235,
+	"usage": false,
+	"user": {
+		"azp": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"aud": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"sub": "115501654312967403075",
+		"email": "jacobsilver666@gmail.com",
+		"email_verified": true,
+		"at_hash": "fOGajafAd_ULuzKf7ERxSg",
+		"exp": 1532800167,
+		"iss": "accounts.google.com",
+		"iat": 1532796567
+	},
+	"tokens": {
+		"expires_at": 1536012250040,
+		"refresh_token": "1/-3qkmnpb2R7eQZ_JwChlpO-98J9ql5hCH2RfF3cfX7o",
+		"scopes": [
+			"email",
+			"https://www.googleapis.com/auth/cloudplatformprojects.readonly",
+			"https://www.googleapis.com/auth/firebase",
+			"openid"
+		],
+		"access_token": "ya29.GmUNBgkAXOrslO2ySFVDcm3cNikXCZJd2wgEtouCoe5RxoIKnx22E9xJGjcLYOnT-V0sOvJGPi0SaueqYtO7qEFALHjKC9RietKCE0D2XUwvreDmM7zbr1Pap3B9yWX45p5L6p6kUA",
+		"expires_in": 3600,
+		"scope": "https://www.googleapis.com/auth/firebase https://www.googleapis.com/auth/cloud-platform https://www.googleapis.com/auth/cloudplatformprojects.readonly https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/plus.me",
+		"token_type": "Bearer",
+		"id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjU1Yjg1NGVkZjM1ZjA5M2I0NzA4ZjcyZGVjNGYxNTE0OTgzNmU4YWMifQ.eyJhenAiOiI1NjM1ODQzMzU4NjktZmdyaGdtZDQ3YnFuZWtpajVpOGI1cHIwM2hvODQ5ZTYuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJhdWQiOiI1NjM1ODQzMzU4NjktZmdyaGdtZDQ3YnFuZWtpajVpOGI1cHIwM2hvODQ5ZTYuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJzdWIiOiIxMTU1MDE2NTQzMTI5Njc0MDMwNzUiLCJlbWFpbCI6ImphY29ic2lsdmVyNjY2QGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJhdF9oYXNoIjoiaGhzLWxHMjM2TFVMQmo2WFdiMC1jdyIsImV4cCI6MTUzNjAxMjI1MCwiaXNzIjoiYWNjb3VudHMuZ29vZ2xlLmNvbSIsImlhdCI6MTUzNjAwODY1MH0.ZYB-VGXXXJwxEQmFG_J72S2gWI7fniMXjxQnAdC02S9y-rbh1J7Zzr8iudUAUYwirtLB1xf1c6mWh5iV5-LoTMBHMGGl25kFkJTdUL3WeMkdH997wwbcmPqtua5QhtAdl2EMA6ID6hil3uQkGucLQi6eCr87cqoxWroiR8l4DcVVj3jfJpZ9ZpngJkws4aVklqbV41yAJwH6-Z3Lu46nqP30zliyuEuWB-9b4AlCwfJYFaNLIY7rmMpLRbU-N9R_st58BCTPkJrp5EAsaYHmDf7a1Ws-gVqtyDBvd6dBGkcAPyzU9NlvR2hEFyGRLPMw6fhFz8JUJgJidYV2h_uEyg"
+	},
+	"activeProjects": {
+		"/Users/jacobsilver/Development/Udemy/BurgerBuilder": "react-my-burger-a8bce",
+		"/Users/jacobsilver/Development/Projects/newWebsite": "jacobsilverdotcom"
+	}
+}
